@@ -2,7 +2,7 @@ import streamlit as st
 import json
 
 # Load your knowledge base
-with open("aircraft_info.json", "r") as f:
+with open("aircraft_safety.json", "r") as f:
     aircraft_db = json.load(f)
 
 # Simple summarizer function
