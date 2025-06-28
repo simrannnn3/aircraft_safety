@@ -1,0 +1,169 @@
+[
+    {
+      "model": "Boeing 777-300ER",
+      "manufacturer": "Boeing",
+      "year_introduced": 2004,
+      "engines": "GE90-115B",
+      "known_issues": "Past fuel pump faults, resolved with service bulletin 2017-13.",
+      "incident_notes": "One runway overrun in 2018; otherwise no major fatal crashes reported.",
+      "maintenance_interval": "6000 flight hours",
+      "passenger_capacity": 396
+    },
+    {
+      "model": "Airbus A320neo",
+      "manufacturer": "Airbus",
+      "year_introduced": 2016,
+      "engines": "CFM LEAP-1A or PW1100G",
+      "known_issues": "Early engine vibration and start-up delays, addressed by upgrades.",
+      "incident_notes": "No fatal crashes as of 2024, some ground engine shutdowns reported.",
+      "maintenance_interval": "5000 flight hours",
+      "passenger_capacity": 180
+    },
+    {
+      "model": "Boeing 737 MAX 8",
+      "manufacturer": "Boeing",
+      "year_introduced": 2017,
+      "engines": "LEAP-1B",
+      "known_issues": "MCAS software issue led to two fatal crashes, resolved in 2020 recertification.",
+      "incident_notes": "Two fatal crashes in 2018 and 2019 due to MCAS; grounded globally until 2020.",
+      "maintenance_interval": "4500 flight hours",
+      "passenger_capacity": 189
+    },
+    {
+      "model": "Airbus A350-900",
+      "manufacturer": "Airbus",
+      "year_introduced": 2015,
+      "engines": "Rolls-Royce Trent XWB",
+      "known_issues": "Paint and surface wear reported in tropical climates, under investigation.",
+      "incident_notes": "No fatal crashes as of 2024, highly safe record.",
+      "maintenance_interval": "6000 flight hours",
+      "passenger_capacity": 325
+    },
+    {
+      "model": "Boeing 787-9 Dreamliner",
+      "manufacturer": "Boeing",
+      "year_introduced": 2014,
+      "engines": "GEnx or Trent 1000",
+      "known_issues": "Early battery overheating issues in 2013, resolved with redesign.",
+      "incident_notes": "No fatal crashes, reliable after early fixes.",
+      "maintenance_interval": "5500 flight hours",
+      "passenger_capacity": 296
+    },
+    {
+      "model": "Airbus A330-300",
+      "manufacturer": "Airbus",
+      "year_introduced": 1993,
+      "engines": "Rolls-Royce Trent 700 or CF6",
+      "known_issues": "Pitot tube icing identified after Air France 447 crash, resolved with redesign.",
+      "incident_notes": "Air France 447 loss in 2009 due to pitot icing and pilot error; otherwise solid safety record.",
+      "maintenance_interval": "5000 flight hours",
+      "passenger_capacity": 277
+    },
+    
+        {
+          "model": "Boeing 777-200LR",
+          "manufacturer": "Boeing",
+          "year_introduced": 2006,
+          "engines": "GE90-110B1L",
+          "known_issues": "Some reports of fuel pump valve wear, addressed in 2016 service bulletins.",
+          "incident_notes": "No fatal hull loss crashes as of 2024. Excellent long-range safety record.",
+          "maintenance_interval": "6000 flight hours",
+          "passenger_capacity": 317
+        },
+        {
+          "model": "Airbus A321neo",
+          "manufacturer": "Airbus",
+          "year_introduced": 2017,
+          "engines": "CFM LEAP-1A or PW1133G",
+          "known_issues": "Early PW engine performance issues with combustor liners; resolved by upgrades.",
+          "incident_notes": "No fatal crashes as of 2024.",
+          "maintenance_interval": "5000 flight hours",
+          "passenger_capacity": 244
+        },
+        {
+          "model": "Bombardier Q400",
+          "manufacturer": "Bombardier Aerospace",
+          "year_introduced": 2000,
+          "engines": "Pratt & Whitney PW150A",
+          "known_issues": "Landing gear deployment faults reported in early production; addressed via AD in 2009.",
+          "incident_notes": "One fatal crash in 2009 (Colgan Air 3407) due to pilot error and icing conditions.",
+          "maintenance_interval": "4000 flight hours",
+          "passenger_capacity": 78
+        },
+        {
+          "model": "Embraer E190",
+          "manufacturer": "Embraer",
+          "year_introduced": 2005,
+          "engines": "GE CF34-10E",
+          "known_issues": "Early issues with slat drive jamming, resolved by 2011 service bulletins.",
+          "incident_notes": "Generally safe record, no major fatal crashes attributed to design faults.",
+          "maintenance_interval": "5000 flight hours",
+          "passenger_capacity": 114
+        },
+        {
+          "model": "ATR 72-600",
+          "manufacturer": "ATR (Airbus + Leonardo joint venture)",
+          "year_introduced": 2010,
+          "engines": "Pratt & Whitney PW127M",
+          "known_issues": "Propeller blade icing risks in severe weather, mitigated with improved anti-ice systems.",
+          "incident_notes": "Several fatal accidents in icing conditions, latest in Taiwan 2015 (TransAsia Flight 235).",
+          "maintenance_interval": "4000 flight hours",
+          "passenger_capacity": 72
+        },
+        
+            {
+              "model": "Boeing 747-400",
+              "manufacturer": "Boeing",
+              "year_introduced": 1989,
+              "engines": "CF6-80C2B1F or PW4000 or RB211-524G/H",
+              "known_issues": "Elevator tab cracking on older aircraft addressed via multiple service bulletins.",
+              "incident_notes": "Several hull losses due to pilot error or cargo shifts; no major design-related fatal crashes after early years.",
+              "maintenance_interval": "6000 flight hours",
+              "passenger_capacity": 416
+            },
+            {
+              "model": "Boeing 767-300ER",
+              "manufacturer": "Boeing",
+              "year_introduced": 1988,
+              "engines": "CF6-80C2 or PW4000",
+              "known_issues": "Occasional fuel pump wire chafing, addressed via AD 2008-11-03.",
+              "incident_notes": "Generally a strong safety record, one hijack crash in 1996 (Ethiopian 961).",
+              "maintenance_interval": "5500 flight hours",
+              "passenger_capacity": 269
+            },
+            {
+              "model": "Airbus A220-300",
+              "manufacturer": "Airbus (originally Bombardier CSeries)",
+              "year_introduced": 2018,
+              "engines": "Pratt & Whitney PW1500G",
+              "known_issues": "Initial engine combustor wear reported, resolved by 2020 upgrades.",
+              "incident_notes": "No fatal crashes as of 2024.",
+              "maintenance_interval": "4500 flight hours",
+              "passenger_capacity": 145
+            },
+            {
+              "model": "Airbus A340-600",
+              "manufacturer": "Airbus",
+              "year_introduced": 2002,
+              "engines": "Rolls-Royce Trent 500",
+              "known_issues": "Elevator power control unit issues on early deliveries, addressed by Airbus bulletins.",
+              "incident_notes": "No fatal passenger crashes; one hull loss in ground test accident 2007.",
+              "maintenance_interval": "6000 flight hours",
+              "passenger_capacity": 379
+            },
+            {
+              "model": "Embraer E175",
+              "manufacturer": "Embraer",
+              "year_introduced": 2005,
+              "engines": "GE CF34-8E",
+              "known_issues": "Early nose landing gear actuator seal leaks, resolved by 2012 SBs.",
+              "incident_notes": "No fatal crashes due to aircraft design faults.",
+              "maintenance_interval": "5000 flight hours",
+              "passenger_capacity": 88
+            }
+          ]
+          
+      
+      
+  
+  
